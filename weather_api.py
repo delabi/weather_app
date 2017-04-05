@@ -22,4 +22,4 @@ try:
 	print "Humidity: ", data['main']['humidity'],"\n"
 
 except:
-	print "Wrong city entered"
+	print "Wrong city entered, try again"
